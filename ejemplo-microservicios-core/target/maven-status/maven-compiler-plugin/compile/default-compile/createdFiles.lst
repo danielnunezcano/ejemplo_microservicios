@@ -1,0 +1,3 @@
+org\ejemplo\microservicios\core\mapper\CuentaMapperImpl.class
+org\ejemplo\microservicios\core\mapper\CountryMapperImpl.class
+org\ejemplo\microservicios\core\mapper\OrderMapperImpl.class

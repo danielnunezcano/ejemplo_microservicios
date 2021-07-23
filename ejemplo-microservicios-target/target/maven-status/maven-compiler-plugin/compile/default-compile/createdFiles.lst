@@ -1,0 +1,3 @@
+org\ejemplo\microservicios\model\entity\Country.class
+org\ejemplo\microservicios\model\entity\Cuenta.class
+org\ejemplo\microservicios\model\entity\Order.class
